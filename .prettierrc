@@ -1,0 +1,12 @@
+{
+	"htmlWhitespaceSensitivity": "css",
+	"printWidth": 100,
+	"requirePragma": false,
+	"semi": true,
+	"singleQuote": true,
+	"tabWidth": 4,
+	"trailingComma": "none",
+	"useTabs": true,
+	"svelteSortOrder": "scripts-markup-styles"
+}
+  
