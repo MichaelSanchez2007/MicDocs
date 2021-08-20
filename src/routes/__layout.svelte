@@ -14,8 +14,10 @@
 		font-family: 'Teko', cursive;
       	margin-top: 0;
 		letter-spacing: 2px;
+		
    	}
 	:global(*) {
 		font-family: 'Tajawal', sans-serif;
 	}
+
 </style>
