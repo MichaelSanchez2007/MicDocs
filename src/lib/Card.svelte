@@ -46,11 +46,17 @@
       margin: auto;
       box-shadow: 0px 11px 50px -23px #00000073;
       top: 10px;
-      
+      transition: 15s;
    }
 
    .content {
       padding: 1rem;
       padding-top: 0;
    }
+
+   h2:hover {
+      background: red;
+      transform: scale(50);
+   }
+
 </style>
